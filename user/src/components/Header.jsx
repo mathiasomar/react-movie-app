@@ -5,7 +5,7 @@ const Header = () => {
         <a href="/" className="relative">
           <h1 className="text-2xl font-semibold text-gray-300">
             Movie
-            <span className="font-extrabold italic text-g-500">Span</span>
+            <span className="font-extrabold italic text-g-500">Trailer</span>
           </h1>
         </a>
       </div>

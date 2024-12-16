@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .hero {
-  background-image: linear-gradient(to right, transparent, #0c9413),
+  background-image: linear-gradient(to right, transparent, #111),
     url("images/pexels-donaldtong94-109669.jpg");
   background-size: cover;
   background-position: center;
