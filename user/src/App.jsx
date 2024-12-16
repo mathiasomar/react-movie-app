@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className="w-full h-screen">
+      <main>
         <Hero />
       </main>
     </>
